@@ -282,3 +282,9 @@ Get help: [Post in our discussion board](https://github.com/skills/.github/discu
 ##### This is level5 header
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+$ git init
+<<dd_do>>
+webuse auto, clear
+summarize price
+<</dd_do>>
