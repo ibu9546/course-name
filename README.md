@@ -280,3 +280,5 @@ Get help: [Post in our discussion board](https://github.com/skills/.github/discu
 ## I added this for level2 header
 ### This is level3 header
 ##### This is level5 header
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
